@@ -15,14 +15,6 @@
   <a href="https://www.facebook.com/ToRuong2410/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" target="_blank" />
   </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> -->
-</div>
-<div>
-    <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToRuong2410&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
-</p>
 </div>
 
  <hr/>
@@ -58,7 +50,11 @@
     </a>
   <br/>
 </div>
-
+<div>
+    <p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToRuong2410&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+</p>
+</div>
 <br/><br/>
 
 <hr/>
