@@ -10,7 +10,7 @@
 
 <div align="center"> 
   <a href="mailto:quangtruong200210@gmail.com">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToRuong2410&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.facebook.com/ToRuong2410/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" target="_blank" />
@@ -51,7 +51,7 @@
 <br>
 <div align=center>
     <a href="https://github.com/ToRuong2410?tab=repositories">
-        <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+        <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ToRuong2410&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
     </a>
     <a href="https://github.com/ToRuong2410?tab=repositories">
         <img width=390 src="https://github-readme-stats-one-bice.vercel.app/api?username=ToRuong2410&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="readme stats" />
