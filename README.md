@@ -10,7 +10,7 @@
 
 <div align="center"> 
   <a href="mailto:quangtruong200210@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToRuong2410&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
   <a href="https://www.facebook.com/ToRuong2410/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" target="_blank" />
@@ -18,6 +18,11 @@
 <!--   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a> -->
+</div>
+<div>
+    <p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToRuong2410&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+</p>
 </div>
 
  <hr/>
@@ -49,7 +54,7 @@
         <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     </a>
     <a href="https://github.com/ToRuong2410?tab=repositories">
-        <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+        <img width=390 src="https://github-readme-stats-one-bice.vercel.app/api?username=ToRuong2410&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="readme stats" />
     </a>
   <br/>
 </div>
